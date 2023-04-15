@@ -1,0 +1,136 @@
+INSERT INTO gimnasio1.personal_cliente (ENTRENADORES_id_entrenador,CLIENTE_id_cliente,dia,hora_inicio,hora_final) VALUES
+	 (1,1,'lunes ','09:00:00','10:00:00'),
+	 (1,20,'lunes','12:45:00','13:45:00'),
+	 (1,96,'martes','16:45:00','17:45:00'),
+	 (1,210,'jueves','11:45:00','12:45:00'),
+	 (1,324,'jueves','12:45:00','13:45:00'),
+	 (1,514,'viernes','13:00:00','14:00:00'),
+	 (1,875,'sabado ','08:30:00','09:30:00'),
+	 (2,2,'lunes ','09:00:00','10:00:00'),
+	 (2,21,'lunes','17:00:00','18:00:00'),
+	 (2,97,'martes','17:00:00','18:00:00');
+INSERT INTO gimnasio1.personal_cliente (ENTRENADORES_id_entrenador,CLIENTE_id_cliente,dia,hora_inicio,hora_final) VALUES
+	 (2,325,'jueves','16:00:00','17:00:00'),
+	 (2,401,'viernes ','09:00:00','10:00:00'),
+	 (2,515,'viernes','13:45:00','14:45:00'),
+	 (2,876,'sabado ','09:00:00','10:00:00'),
+	 (2,895,'domingo ','11:45:00','12:45:00'),
+	 (3,3,'lunes','10:00:00','11:00:00'),
+	 (3,22,'lunes','18:00:00','19:00:00'),
+	 (3,98,'martes','18:00:00','19:00:00'),
+	 (3,326,'jueves','16:45:00','17:45:00'),
+	 (3,402,'viernes ','09:00:00','10:00:00');
+INSERT INTO gimnasio1.personal_cliente (ENTRENADORES_id_entrenador,CLIENTE_id_cliente,dia,hora_inicio,hora_final) VALUES
+	 (3,516,'viernes','12:45:00','13:45:00'),
+	 (3,877,'sabado ','09:00:00','10:00:00'),
+	 (3,896,'domingo ','12:00:00','13:15:00'),
+	 (4,4,'lunes','10:00:00','11:00:00'),
+	 (4,23,'lunes','19:00:00','20:00:00'),
+	 (4,99,'miercoles ','09:00:00','10:00:00'),
+	 (4,327,'jueves','17:00:00','18:30:00'),
+	 (4,403,'viernes','10:00:00','11:00:00'),
+	 (4,517,'viernes','16:00:00','17:00:00'),
+	 (4,669,'sabado ','21:00:00','22:00:00');
+INSERT INTO gimnasio1.personal_cliente (ENTRENADORES_id_entrenador,CLIENTE_id_cliente,dia,hora_inicio,hora_final) VALUES
+	 (4,878,'sabado ','10:00:00','11:00:00'),
+	 (4,897,'domingo','13:00:00','14:00:00'),
+	 (5,5,'lunes','10:30:00','11:30:00'),
+	 (5,24,'lunes','20:00:00','21:15:00'),
+	 (5,100,'miercoles ','09:00:00','10:00:00'),
+	 (5,328,'jueves','18:00:00','19:00:00'),
+	 (5,404,'viernes','10:30:00','11:30:00'),
+	 (5,518,'viernes','16:45:00','17:45:00'),
+	 (5,670,'sabado ','17:45:00','18:45:00'),
+	 (5,879,'sabado ','10:30:00','11:45:00');
+INSERT INTO gimnasio1.personal_cliente (ENTRENADORES_id_entrenador,CLIENTE_id_cliente,dia,hora_inicio,hora_final) VALUES
+	 (5,898,'domingo','13:45:00','15:00:00'),
+	 (6,6,'lunes','12:00:00','13:00:00'),
+	 (6,25,'lunes','21:00:00','22:00:00'),
+	 (6,101,'miercoles ','10:00:00','11:00:00'),
+	 (6,405,'viernes','11:45:00','12:45:00'),
+	 (6,519,'viernes','17:00:00','18:00:00'),
+	 (6,671,'sabado ','18:45:00','19:45:00'),
+	 (6,899,'domingo','12:45:00','14:00:00'),
+	 (7,7,'lunes','13:00:00','14:00:00'),
+	 (7,26,'lunes','21:00:00','22:00:00');
+INSERT INTO gimnasio1.personal_cliente (ENTRENADORES_id_entrenador,CLIENTE_id_cliente,dia,hora_inicio,hora_final) VALUES
+	 (7,102,'miercoles ','10:30:00','11:30:00'),
+	 (7,406,'viernes','12:00:00','14:00:00'),
+	 (7,520,'viernes','18:00:00','19:00:00'),
+	 (7,672,'sabado ','19:45:00','20:45:00'),
+	 (7,900,'domingo','16:00:00','17:30:00'),
+	 (8,8,'lunes','13:45:00','14:45:00'),
+	 (8,27,'lunes','09:00:00','10:00:00'),
+	 (8,103,'miercoles ','11:45:00','12:45:00'),
+	 (8,521,'viernes','19:00:00','20:00:00'),
+	 (8,673,'sabado ','12:45:00','13:45:00');
+INSERT INTO gimnasio1.personal_cliente (ENTRENADORES_id_entrenador,CLIENTE_id_cliente,dia,hora_inicio,hora_final) VALUES
+	 (8,901,'domingo','16:45:00','17:45:00'),
+	 (9,9,'lunes','15:30:00','16:30:00'),
+	 (9,28,'lunes','08:30:00','09:30:00'),
+	 (9,104,'miercoles ','12:00:00','13:00:00'),
+	 (9,522,'viernes','20:00:00','21:00:00'),
+	 (9,674,'sabado ','17:00:00','18:00:00'),
+	 (9,902,'domingo','17:00:00','18:00:00'),
+	 (10,10,'lunes','16:00:00','17:00:00'),
+	 (10,86,'martes ','09:00:00','10:00:00'),
+	 (10,105,'miercoles ','13:00:00','14:00:00');
+INSERT INTO gimnasio1.personal_cliente (ENTRENADORES_id_entrenador,CLIENTE_id_cliente,dia,hora_inicio,hora_final) VALUES
+	 (10,675,'sabado ','18:00:00','19:00:00'),
+	 (10,903,'domingo','18:00:00','19:00:00'),
+	 (11,11,'lunes','16:30:00','17:30:00'),
+	 (11,87,'martes ','09:00:00','10:00:00'),
+	 (11,106,'miercoles ','13:45:00','14:45:00'),
+	 (11,676,'sabado ','19:00:00','20:00:00'),
+	 (11,904,'domingo','19:00:00','20:00:00'),
+	 (11,999,'domingo','18:45:00','19:45:00'),
+	 (12,12,'lunes','19:45:00','20:45:00'),
+	 (12,88,'martes','10:00:00','11:00:00');
+INSERT INTO gimnasio1.personal_cliente (ENTRENADORES_id_entrenador,CLIENTE_id_cliente,dia,hora_inicio,hora_final) VALUES
+	 (12,107,'miercoles ','12:45:00','13:45:00'),
+	 (12,677,'sabado ','20:00:00','21:45:00'),
+	 (12,905,'domingo','20:00:00','21:00:00'),
+	 (13,13,'lunes','19:45:00','20:45:00'),
+	 (13,89,'martes','10:30:00','11:30:00'),
+	 (13,108,'miercoles ','16:00:00','17:00:00'),
+	 (13,678,'sabado ','21:00:00','22:00:00'),
+	 (14,14,'lunes','19:00:00','20:00:00'),
+	 (14,90,'martes','11:45:00','12:45:00'),
+	 (14,109,'miercoles ','16:45:00','17:45:00');
+INSERT INTO gimnasio1.personal_cliente (ENTRENADORES_id_entrenador,CLIENTE_id_cliente,dia,hora_inicio,hora_final) VALUES
+	 (14,185,'miercoles ','18:45:00','19:45:00'),
+	 (14,679,'sabado ','21:00:00','22:00:00'),
+	 (15,15,'lunes','19:45:00','20:45:00'),
+	 (15,91,'martes','12:00:00','14:00:00'),
+	 (15,129,'miercoles ','18:00:00','19:00:00'),
+	 (15,680,'sabado ','09:00:00','10:00:00'),
+	 (15,984,'domingo','21:00:00','22:00:00'),
+	 (16,16,'lunes','17:00:00','18:45:00'),
+	 (16,92,'martes','13:00:00','14:00:00'),
+	 (16,130,'miercoles ','19:00:00','20:00:00');
+INSERT INTO gimnasio1.personal_cliente (ENTRENADORES_id_entrenador,CLIENTE_id_cliente,dia,hora_inicio,hora_final) VALUES
+	 (16,187,'miercoles ','12:45:00','13:45:00'),
+	 (16,206,'jueves ','09:00:00','10:00:00'),
+	 (16,681,'sabado ','08:30:00','09:30:00'),
+	 (16,985,'domingo','17:45:00','18:45:00'),
+	 (17,17,'lunes','20:00:00','21:45:00'),
+	 (17,93,'martes','13:45:00','14:45:00'),
+	 (17,131,'miercoles ','20:00:00','21:00:00'),
+	 (17,188,'miercoles ','17:00:00','18:00:00'),
+	 (17,207,'jueves ','09:00:00','10:00:00'),
+	 (17,321,'jueves','12:00:00','13:00:00');
+INSERT INTO gimnasio1.personal_cliente (ENTRENADORES_id_entrenador,CLIENTE_id_cliente,dia,hora_inicio,hora_final) VALUES
+	 (17,682,'sabado ','09:00:00','10:00:00'),
+	 (18,18,'lunes','18:45:00','19:45:00'),
+	 (18,94,'martes','12:45:00','13:45:00'),
+	 (18,132,'miercoles ','21:00:00','22:00:00'),
+	 (18,208,'jueves','10:00:00','11:00:00'),
+	 (18,322,'jueves','13:00:00','14:00:00'),
+	 (18,683,'sabado ','09:00:00','10:00:00'),
+	 (19,19,'lunes','19:45:00','20:45:00'),
+	 (19,95,'martes','16:00:00','17:00:00'),
+	 (19,133,'miercoles ','17:45:00','18:45:00');
+INSERT INTO gimnasio1.personal_cliente (ENTRENADORES_id_entrenador,CLIENTE_id_cliente,dia,hora_inicio,hora_final) VALUES
+	 (19,209,'jueves','10:30:00','11:00:00'),
+	 (19,323,'jueves','13:45:00','14:45:00'),
+	 (19,874,'sabado ','09:00:00','10:00:00');
